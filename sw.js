@@ -1,4 +1,4 @@
-const CACHE = 'plantel-manp-v3';
+const CACHE = 'plantel-manp-v4';
 const ASSETS = [
   './',
   './index.html',
